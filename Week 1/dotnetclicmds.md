@@ -1,0 +1,2 @@
+- dotnet new console --language vb: creates new console app in vb
+- dotnet new gitignore: geneates dotnet gitignore
